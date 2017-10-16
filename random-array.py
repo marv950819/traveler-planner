@@ -5,4 +5,4 @@ print(rounded)
 random_array = [round(uniform(20, 180)) for _ in range(364)]
 print(random_array)
 
-print(random_array[0])
+print(random_array[1])
